@@ -1,7 +1,7 @@
 from socket import *
 from time import ctime
 import _thread
-HOST = 'sh.gxu.icu'
+HOST = '127.0.0.1'
 PORT = 21568
 BUFSIZ = 1024
 ADDR = (HOST, PORT)
